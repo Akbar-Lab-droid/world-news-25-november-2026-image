@@ -118,7 +118,7 @@ SECTIONS = [
     ("RUSSIA-UKRAINE", [
         ("OVERNIGHT STRIKES KILL THREE",
          "3 dead, 15 hurt in attacks on Kyiv and Kharkiv."),
-        ("UKRAINE DRONES SET REFINERIES ABLAZE",
+        ("UKRAINE DRONES HIT REFINERIES",
          "Syzran and Kuibyshev hit; 145 drones downed."),
         ("490,334 RUSSIAN SOLDIERS DEAD",
          "Leaked Russian data analysed by the BBC."),
